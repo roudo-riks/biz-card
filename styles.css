@@ -1,5 +1,5 @@
 body {
-    margin: auto auto;
+    margin: 0 30px;
     /*
     Challenge:
     Find a web safe font you like, and add it 
@@ -28,7 +28,7 @@ body {
 
 .card {
     width: 400px;
-    margin: auto auto;
+    margin: 20px auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
